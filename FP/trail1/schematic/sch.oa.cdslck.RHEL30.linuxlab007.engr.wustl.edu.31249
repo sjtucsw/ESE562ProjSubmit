@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      caisiwei
+HostName                       linuxlab007.engr.wustl.edu
+ProcessIdentifier              31249
+ProcessCreationTime_UTC        1609905908
+ProcessCreationTime_Readable   Tue Jan  5 22:05:08 2021 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/warehouse/caisiwei/files/ESE562/FP/trail1/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Jan  5 22:30:36 2021 CST
